@@ -1,11 +1,11 @@
 # User-specific stuff
-./*/idea/
+*/idea/
 
 # IntelliJ
-./*/out/
+*/out/
 
 # iml files
-./*/*.iml
+*/*.iml
 
 # mpeltonen/sbt-idea plugin
-./*/idea_modules/
+*/idea_modules/
