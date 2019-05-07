@@ -1,17 +1,11 @@
 # User-specific stuff
-./**/idea/*
+./*/idea/
 
 # IntelliJ
-./**/out/
+./*/out/
 
 # iml files
-./**/*.iml
+./*/*.iml
 
 # mpeltonen/sbt-idea plugin
-./**/idea_modules/
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
-./**/com_crashlytics_export_strings.xml
-./**/crashlytics.properties
-./**/crashlytics-build.properties
-./**/fabric.properties
+./*/idea_modules/
